@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.19.1
+
+### Patch Changes
+
+- [#1247](https://github.com/Shopify/hydrogen/pull/1247) [`ee64873e`](https://github.com/Shopify/hydrogen/commit/ee64873ece372f9be2d6eb08b0594a91f4ed135a) Thanks [@frandiox](https://github.com/frandiox)! - Improve the way client components are discovered in order to reduce bundle sizes.
+
 ## 0.19.0
 
 ### Minor Changes
